@@ -4,4 +4,4 @@ The scope of this project was to understand the role and the usage of encrypting
 
 In the encrypting file developers can change the properties of the encrypted that they wish to have.
 
-Please Note! Do not hesitate to contact for any additional help or information, here papadopoulos.v.dimitris@gmail.com
+Please Note! Do not hesitate to contact for any additional help or information here: papadopoulos.v.dimitris@gmail.com
