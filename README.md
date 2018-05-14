@@ -1,4 +1,4 @@
-# a__En-D-ecrypting
+# #a__encryptingDecrypting
 
 The scope of this project was to understand the role and the usage of encrypting and at the same time of decrypting. For this, the 'Crypto' package used with its substances {Random, Cipher, Hash}.
 
