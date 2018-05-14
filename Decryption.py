@@ -33,7 +33,7 @@ def main():
         hashing_method = SHA256.new(given_password.encode('utf-8'))   # Using the SHA256 protocol I am hashin the password,
         final_hash = hashing_method.digest()      # then I am digesting it,
 
-        decryption_function(final_hash, given_filename)     # and finally I am decrypting the file.
+        decryption_function(final_hash, given_filename)     #, and finally I am decrypting the file.
         print("Done!")
 
 
