@@ -27,7 +27,7 @@ def decryption_function(given_key, given_filename):
 
 def main():
 
-        given_filename = input("Tell me which file you want to decrypt: ")    $ Ask for a file to decrypt, fro the user.
+        given_filename = input("Tell me which file you want to decrypt: ")    # Ask for a file to decrypt, fro the user.
         given_password = input("Give me the correct password: ")    # Ask for a password, which is resposible for the decrypting of the above file.
 
         hashing_method = SHA256.new(given_password.encode('utf-8'))   # Using the SHA256 protocol I am hashin the password,
